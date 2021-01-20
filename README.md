@@ -1,3 +1,20 @@
+# Healthcare Management
+
+## Visualize Patients
+- Locate all of your patients globally at a single place!
+
+## Message Patients
+- Send messages to any of your patients in a click!
+
+## View Patient Info
+- Get all of your patient information in a single page!
+
+## Book Appointments
+- Arrange an appointment with the doctor anytime!
+
+## Search Doctors
+- Find the doctor of your choice internationally!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

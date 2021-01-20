@@ -1,4 +1,5 @@
 # Healthcare Management
+Visualizing geographic data, Interacting with patients, Booking a doctor’s appointment, perform all of the tasks in one place!
 
 ## Visualize Patients
 - Locate all of your patients globally at a single place!

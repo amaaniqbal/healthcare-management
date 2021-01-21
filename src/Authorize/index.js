@@ -33,7 +33,7 @@ export default function Authorize() {
   };
 
   useEffect(() => {
-    fetch("https://drchrono.com/o/token/", {
+    fetch("https://cors-anywhere.herokuapp.com/https://drchrono.com/o/token/", {
       method: "POST",
       params: queryString.stringify(data),
       body: queryString.stringify(data),
